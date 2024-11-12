@@ -1,3 +1,6 @@
 [submodule "micrograd-rs"]
-	path = micrograd-rs
-	url = https://github.com/kodylow/micrograd-rs
+path = micrograd-rs
+url = https://github.com/kodylow/micrograd-rs
+[submodule "makemore-rs"]
+	path = makemore-rs
+	url = https://github.com/kodylow/makemore-rs
